@@ -23,7 +23,6 @@ p {
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     color: white;                      
 }
-/* Image styling */
 .image {
     display: block;
     margin: 30px auto;
@@ -32,7 +31,7 @@ p {
     border-radius: 8px;
 }
 
-figure {
+.figure {
     margin: 30px auto;
     padding: 20px;
     background-color: #ffffff;
@@ -41,7 +40,7 @@ figure {
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
-figure img {
+.figure {
     max-width: 100%;
     display: block;
     margin: 0 auto;
