@@ -1,1 +1,52 @@
+1. Sivuston aihe / teema 
+Sivusto toimii minun ammatillisena verkkoyhteenvetona eli CV:nä, jonka tarkoitus on esitellä  koulutus, työkokemus, tavoite ja yhteystiedot. Sivuston päätarkoituksena on toimia henkilökohtaisena portfoliosivuna IT- ja kyberturvallisuusalan työnantajille tai opintoihin liittyville arvioijille.
 
+2. Sivuston rakenne 
+Sivusto koostuu useasta yksinkertaisesta alasivusta:
+
+index.html: Etusivu, jossa on CV-tiedot (taidot, työhistoria, koulutus).
+
+tavoitteet.html: Kuvaa tulevaisuuden suuntautumista ja missä haluaa kehittyä.
+
+yhteystiedot.html: Sisältää yhteystiedot ja sosiaalisen median linkit.
+
+tietoja.html: Sisältää yleistä tietoa.
+
+styles.css: Sisältää tyylejä.
+
+Kaikilla sivuilla on yhtenäinen navigointipalkki ja alatunniste.
+
+3. Käyttäjän media
+Kuvat:
+
+Profiilikuva (AL.jpg)
+
+Sosiaalisen median ikoni (linkedin.png)
+
+Tietoja minusta on kuva (dhl.jpg) 
+
+Ääni- tai videosisältöä ei ole.
+
+
+4. Erikoisominaisuudet
+W3.CSS: Käytetty tyylikkään ja responsiivisen ulkoasun luomiseen.
+
+Font Awesome -ikonit:  Parantaa ulkoasua
+
+Google Fonts
+
+Navigaatiopalkki
+
+Sivusto on rakennettu pelkällä HTML:llä ja CSS:llä.
+
+5. Validointiraportti
+Tarkasteltu W3C:n HTML- ja CSS-validointityökaluilla:
+
+EI korjattavaa.
+
+6- Isearviointi
+
+Koen, että tälläisestä sivusta on itselle eniten hyöytyä, joten toteutin sen. Sivusto on aika yksinkertaienn, mutta ilmeeltään ihan tyylikäs. Lisää olisi voinut toki lisätä kuvia tai tehdä javascriptillä jonkinlainen visio, mutta koen ettei se ollut tarpeellsita muutenkaan kurssiin liittyen.
+Antaisin itselleni arvosanaksi tästä noin puolet pisteistä.
+
+https://alaitinen55.github.io/nettisivut/index.html
